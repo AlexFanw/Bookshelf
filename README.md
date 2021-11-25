@@ -1,15 +1,6 @@
 # Bookshelf
 如有侵权，联系删除。
 
-### 在线文档栏目
-
-| 标题          | 链接🔗                                              |
-| ------------- | -------------------------------------------------- |
-| 正则表达式    | https://www.runoob.com/regexp/regexp-tutorial.html |
-| Docker        | https://www.docker.org.cn/                         |
-| Nginx中文文档 | https://www.nginx.cn/doc/index.html                |
-| Nginx英文文档 | http://nginx.org/en/docs/                          |
-
 ### 电子书栏目
 | 标题                              | 链接🔗                                                        |
 | --------------------------------- | ------------------------------------------------------------ |
@@ -27,3 +18,11 @@
 
 
 
+### 在线文档栏目
+
+| 标题          | 链接🔗                                              |
+| ------------- | -------------------------------------------------- |
+| 正则表达式    | https://www.runoob.com/regexp/regexp-tutorial.html |
+| Docker        | https://www.docker.org.cn/                         |
+| Nginx中文文档 | https://www.nginx.cn/doc/index.html                |
+| Nginx英文文档 | http://nginx.org/en/docs/                          |
